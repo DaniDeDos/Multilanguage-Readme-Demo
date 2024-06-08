@@ -1,8 +1,12 @@
 # Multilanguage-Readme-Demo
 
 <div align="right">
-    <details open>
-        <summary ><img alt="Static Badge" src="https://img.shields.io/badge/Languages-brightgreen?style=social&logo=googletranslate&labelColor=%23151515&color=%230866FF"></summary>
+    <details>
+        <summary>
+            <a href="#">
+                <img alt="language" src="https://img.shields.io/badge/Languages-brightgreen?style=social&logo=googletranslate&labelColor=%23151515&color=%230866FF">
+            </a>
+        </summary>
         <br>
         <a href="https://github.com/DaniDeDos/Multilanguage-Readme-Demo/tree/main">
             <img alt="us_US" src="https://img.shields.io/badge/English.-brightgreen?style=flat-square&label=%F0%9F%87%BA%F0%9F%87%B2&labelColor=%23151515&color=%230866FF">
@@ -21,7 +25,8 @@ Multilingual README.md on GitHub, showing how to adapt them for different langua
 
 **Acknowledgements**
 
-- **Credits** + [jonatasemidio](https://github.com/jonatasemidio/multilanguage-readme-pattern/tree/master)
+    - **Credits** 
+        + [jonatasemidio](https://github.com/jonatasemidio/multilanguage-readme-pattern/tree/master)
 <!--
 - **Special thanks to**
   - [jonatasemidio](https://github.com/jonatasemidio/multilanguage-readme-pattern/tree/master)
