@@ -21,9 +21,7 @@
 
 Multilingual README.md on GitHub, showing how to adapt them for different languages and use shields.io badges to indicate available translations.
 
----
-
-**Acknowledgements**
+<h2>Acknowledgements</h2>
 
     - **Credits** 
         + [jonatasemidio](https://github.com/jonatasemidio/multilanguage-readme-pattern/tree/master)
