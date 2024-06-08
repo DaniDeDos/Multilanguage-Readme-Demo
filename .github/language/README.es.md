@@ -22,11 +22,15 @@
 <p>README.md multilingües en GitHub, mostrando cómo adaptarlos para diferentes idiomas y usar badges de shields.io para indicar las traducciones disponibles.</p>
 
 <h3>Agradecimientos</h3>
-<h4>Creditos</h4>
-<a href="https://github.com/jonatasemidio/multilanguage-readme-pattern/tree/master">
-jonatasemidio
-</a>
-
+<hr>
+<h4>Creditos:</h4>
+<ul>
+   <li>
+      <a href="https://github.com/jonatasemidio/multilanguage-readme-pattern/tree/master">
+      jonatasemidio
+      </a>
+   </li>
+</ul>
 <!--
 - **Special thanks to**
   - [jonatasemidio](https://github.com/jonatasemidio/multilanguage-readme-pattern/tree/master)
