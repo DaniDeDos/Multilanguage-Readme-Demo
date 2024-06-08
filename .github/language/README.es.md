@@ -17,16 +17,41 @@
    </details>
 </div>
 
-<h2>Multilanguage-Readme-Demo</h2>
+<h1>Multilanguage-Readme-Demo</h1>
 
 <p>README.md multilingües en GitHub, mostrando cómo adaptarlos para diferentes idiomas y usar badges de shields.io para indicar las traducciones disponibles.</p>
 
-<h3>Agradecimientos</h3>
-<hr>
+<h2>Pasos:</h2>
+Paso 1: Escribir el Contenido Principal del README
+
+    Crea un archivo llamado README.md en la raíz de tu repositorio.
+    Escribe el contenido principal de tu README en un idioma, (ej: "Inglés"). Este será el contenido base de tu documento.
+
+Paso 2: Traducir el README a Otros Idiomas
+
+    Para cada idioma que quieras soportar, crea un nuevo archivo en la carpeta language o translations dentro de tu repositorio, (ej: para español), el nombre del archivo sería README.es.md.
+    Copia el contenido de README.md al archivo correspondiente en otro idioma, realizando las traducciones necesarias.
+
+Paso 3: Usar Shields.io para Indicar Las Traducciones Disponibles
+
+    Configura el badge con el nombre del idioma (ej: "Español") y el enlace al archivo de traducción correspondiente en tu repositorio.
+    Copia el código del badge generado y pégalo en tu archivo README.md justo debajo de la sección de contenido principal.
+
+<h2>Recursos Adicionales</h2>
+<h4>Elaces:</h4>
+<ul>
+   <li>
+      <a target="_blank" rel="noreferrer" href="https://shields.io/badges">
+      shields.io
+      </a>
+   </li>
+</ul>
+
+<h2>Agradecimientos</h2>
 <h4>Creditos:</h4>
 <ul>
    <li>
-      <a href="https://github.com/jonatasemidio/multilanguage-readme-pattern/tree/master">
+      <a target="_blank" rel="noreferrer" href="https://github.com/jonatasemidio/multilanguage-readme-pattern/tree/master">
       jonatasemidio
       </a>
    </li>
