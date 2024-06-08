@@ -37,7 +37,7 @@ Step 3: Use Shields.io to Indicate Available Translations
     Configure the badge with the language name (e.g., "Spanish") and the link to the corresponding translation file in your repository.
     Copy the generated badge code and paste it into your README.md file right below the main content section.
 
-<h2>Recursos Adicionales</h2>
+<h2>Additional Resources.</h2>
 <h4>Links:</h4>
 <ul>
    <li>
