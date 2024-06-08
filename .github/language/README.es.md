@@ -1,5 +1,3 @@
-# Multilanguage-Readme-Demo
-
 <div align='right'>
    <details>
       <summary>
@@ -19,13 +17,17 @@
    </details>
 </div>
 
-README.md multilingües en GitHub, mostrando cómo adaptarlos para diferentes idiomas y usar badges de shields.io para indicar las traducciones disponibles.
+<h2>Multilanguage-Readme-Demo</h2>
 
+<p>README.md multilingües en GitHub, mostrando cómo adaptarlos para diferentes idiomas y usar badges de shields.io para indicar las traducciones disponibles.</p>
 
-<h2>Agradecimientos</h2>
+<h3>Agradecimientos</h3>
+<h4>Creditos</h4>
+<a href="https://github.com/jonatasemidio/multilanguage-readme-pattern/tree/master">
+jonatasemidio
+</a>
 
-   - **Creditos**
-      + [jonatasemidio](https://github.com/jonatasemidio/multilanguage-readme-pattern/tree/master)
 <!--
-   - **Special thanks to**
-      + [jonatasemidio](https://github.com/jonatasemidio/multilanguage-readme-pattern/tree/master)
+- **Special thanks to**
+  - [jonatasemidio](https://github.com/jonatasemidio/multilanguage-readme-pattern/tree/master)
+--!>
