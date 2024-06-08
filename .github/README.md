@@ -1,6 +1,6 @@
 # Multilanguage-Readme-Demo
 
-<div align='right'>
+<a href="language/README.es.md" align="right" >
     <details open>
         <summary ><img alt="Static Badge" src="https://img.shields.io/badge/Languages-brightgreen?style=social&logo=googletranslate&labelColor=%23151515&color=%230866FF"></summary>
         <br>
@@ -9,7 +9,7 @@
         <img alt="es_ES" src="https://img.shields.io/badge/Spanish-brightgreen?style=flat-square&logo=70px&label=%F0%9F%87%AA%F0%9F%87%B8&labelColor=%23151515&color=%230866FF">
         <br>
     </details>
-</div>
+</a>
 
 Multilingual README.md on GitHub, showing how to adapt them for different languages and use shields.io badges to indicate available translations.
 
