@@ -8,7 +8,7 @@
          </a>   
       </summary>
       <br>
-      <a href="language/README.es.md">
+      <a href="#">
          <img alt="es_ES" src="https://img.shields.io/badge/Espa%C3%B1ol-brightgreen?style=flat-square&logo=70px&label=%F0%9F%87%AA%F0%9F%87%B8&labelColor=%23151515&color=%230866FF">
       </a>
       <br>      
